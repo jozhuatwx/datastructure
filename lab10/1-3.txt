@@ -1,0 +1,31 @@
+Q1.
+a. 2
+b. 4
+c. 2
+d. 2
+e.
+Pre: P, F, B, A, H, M, S, R, W
+In: A, B, F, H, M, P, R, S, W
+Post: A, B, M, H, F, R, W, S, P
+Level: P, F, S, B, H, R, W, A, M
+
+Q2.
+a. 1
+b. 3
+c. 0
+d. 2
+Pre: D, B, A, C, F, E, G
+In: A, B, C, D, E, F, G
+Post: A, C, B, E, G, F, D
+Level: D, B, F, A, C, E, G
+
+Q3.
+a. 3
+b. 4
+c. 1
+d. 2
+e.
+Pre: 45, 25, 16, 35, 32, 55, 61
+In: 16, 25, 32, 35, 45, 55, 61
+Post: 16, 32, 35, 25, 61, 55, 45
+Level: 45, 25, 55, 16, 35, 61, 31
